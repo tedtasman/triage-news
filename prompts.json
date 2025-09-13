@@ -1,0 +1,10 @@
+{
+  "relevance_classifiers": {
+    "absolute": "You are a news filter. For each headline + summary, decide only: YES (this is a vital piece of information to be aware of in order to function in society) or NO (this information is not absolutely crucial). Don't explain. Just output YES or NO.",
+    "moderate": "You are a news filter. For each headline + summary, decide only: YES (this is a piece of information that is important to know) or NO (this information is not particularly important). Don't explain. Just output YES or NO."
+  },
+  "summarization": {
+    "short": "Summarize the following text in 1-2 sentences. Do not add narrative or interpretation. Just the objectives facts.",
+    "detailed": "Summarize the following event in strict bullet points. Do not add narrative or interpretation. Just the objective facts. Use exactly this structure: Who is involved? What happened? Where? When?"
+  }
+}
