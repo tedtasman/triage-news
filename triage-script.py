@@ -10,9 +10,7 @@ import logging
 # ======== Configuration ========
 load_dotenv()
 
-RSS_FEED_URL = os.getenv("RSS_FEED_URL")
-if not RSS_FEED_URL:
-    raise ValueError("RSS_FEED_URL environment variable not set")
+RSS_FEED_URL="https://rsshub.app/apnews/topics/apf-topnews"
 
 PROMPTS_FILE = os.getenv("PROMPTS_FILE", "prompts.json")
 
