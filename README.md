@@ -1,4 +1,4 @@
-# News Summarizer
+# Triage News
 
 A lightweight news filtering and summarization pipeline. This project classifies news articles based on relevance to US citizens and generates concise, structured summaries.
 
