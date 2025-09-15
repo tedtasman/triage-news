@@ -53,6 +53,8 @@ OPENAI_API_KEY=<your_api_key>
 PROMPTS_FILE=<custom_prompts_file>
 ```
 
+---
+
 ## Usage
 
 ```bash
@@ -64,6 +66,8 @@ python3 triage-script.py
 ```cmd
 python triage-script.py
 ```
+
+---
 
 ## News Sources
 
