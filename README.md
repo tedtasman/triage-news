@@ -71,4 +71,6 @@ python triage-script.py
 
 ## News Sources
 
-Currently, news is pulled from AP News' Top News topic via rss.app. If you wish to alter this source, modifications to the html parser will likely be required
+Currently, news is pulled from AP News' Top News topic via rsshub.app. If you wish to alter this source, modifications to the html parser will likely be required.
+
+RSS Feed URL: https://rsshub.app/apnews/topics/apf-topnews
